@@ -5,7 +5,7 @@
         "icon": "❤️"
     },
     "NOTIFICATION": true,
-    "language": "vi",
+    "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -27,10 +27,10 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "ACCESSTOKEN": "",
-    "BOTNAME": "𝘽𝙊𝙏 𝙃𝙖̀𝙤",
-    "PREFIX": "/",
+    "BOTNAME": "𝘽𝙊𝙏",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "61565699191172"
+        "100058415170590"
     ],
     "NDH": [],
     "DATABASE": {
